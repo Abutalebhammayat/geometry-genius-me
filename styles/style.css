@@ -1,0 +1,22 @@
+.inline-disply{
+    text-decoration: underline;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(82, 59, 30);
+}
+.btnon{
+    margin-left: 10px;
+    background-color: rgb(62, 189, 240);
+    padding: 8px 10px;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
+ }
+ .buutn{
+    background-color: rgb(62, 189, 240);
+    padding: 8px 30px;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+ }
